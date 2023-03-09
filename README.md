@@ -2,9 +2,9 @@
 
 ## Learning Goals
 
-- Identify the differences between HTML and CSS
-- List the basic characteristics of CSS
-- Declare CSS properties and values
+- Identify the differences between HTML and CSS.
+- List the basic characteristics of CSS.
+- Declare CSS properties and values.
 
 ## Introduction
 
